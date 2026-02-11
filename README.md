@@ -2,7 +2,7 @@
 
   <!-- Banner -->
   <img
-    src="https://github.com/junel5002/junel5002/blob/main/images/banner.png?raw=true"
+    src="[https://github.com/junel5002/junel5002/blob/main/images/banner.png?raw=true](https://github.com/junel5002/junel5002/blob/main/img/banner.png)"
     alt="Nelson Kwesi Xedzro Jr. Banner"
     width="100%"
   />
